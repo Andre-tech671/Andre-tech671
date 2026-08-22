@@ -1,81 +1,40 @@
-👋 Hi, I’m Andre Nyanjahia
-🚀 Solutions Architect | Data Engineer | Full‑Stack Developer
-🌍 Building technology for social impact, climate action, and data‑driven decision‑making
+Full Stack Systems Architect | Data Engineer | Public Health Researcher
+
+🌍 Building evidence-based digital infrastructure for global health, climate resilience, and social equity.
+
 📍 Mozambique | Working across Africa & globally
-
 🧠 About Me
-I’m a multidisciplinary Solutions Architect, Data Engineer, and Full‑Stack Developer with over 6 years of experience designing scalable digital systems, data analytics pipelines, and full‑stack applications that solve real‑world problems.
-My work sits at the intersection of technology, data, and social impact, with a strong focus on:
 
-Evidence‑based decision‑making
-Child‑centered and public‑sector systems
-Climate and circular‑economy innovation
-Ethical, human‑centered design
+I am a multidisciplinary engineer and researcher with over six years of experience designing scalable applications, data pipelines, and social welfare interventions. My work bridges the gap between software engineering, predictive data science, and macro-level social policy to build high-impact digital infrastructure. 
+•	I hold professional certifications in Systems Architecture from IBM and Advanced Data Analytics from Google. 
+•	I currently serve as the Southern Africa Regional Focal Point for the SDG7 Youth Constituency, leading regional stakeholder coordination for sustainable energy access. 
+•	My technical approach is rooted in evidence-based decision-making, child-centered systems, climate innovation, and ethical, human-centered design.
 
-I bring a rare blend of engineering, data science, and social policy, supported by hands‑on experience in global health, child protection, and development programmes.
+🛠️ Technical Arsenal
+•	Full-Stack Engineering: React.js, Next.js (App Router), TypeScript, Tailwind CSS. 
+•	Backend & Cloud: Node.js, NestJS, Express.js, REST APIs, GraphQL, PostgreSQL, MongoDB. 
+•	Data Science & Analytics: Python (Pandas, Scikit-learn), R, SQL, Power BI, Tableau, Predictive Modeling, PACE Framework. 
+•	Emerging Tech: Internet Computer Protocol (ICP), Motoko smart contracts, Decentralized application (dApp) design. 
 
-🛠️ Technical Skills
-Full‑Stack Engineering
+📊 Featured Open-Source & Portfolio Projects
+•	HydroNexus One (Digital Public Infrastructure): Spearheaded the deployment of an open-source framework using the MERN stack for transboundary antimicrobial resistance (AMR) data surveillance. Engineered a secure, admin-gated data validation pipeline with an immutable transactional log to guarantee data integrity across jurisdictions. 
+•	Automatidata (Machine Learning): Built a regression-based ML model to forecast NYC taxi fares, utilizing the PACE framework for full data lifecycle management. 
+•	DBank (DeFi on ICP): Architected a decentralized banking application using Motoko, featuring 1% compound interest logic, stable memory persistence, and Internet Identity integration. 
+•	ShopHub (E-commerce SaaS): Engineered a high-performance storefront using Next.js 13, TypeScript, and centralized state management via Zustand.
 
-React.js, Next.js (App Router, Server Components), TypeScript
-Node.js, Express.js, NestJS
-REST APIs, GraphQL
-PostgreSQL, MongoDB
+📄 Research & Advocacy
+•	Peer-Reviewed Publication: Digital Health Information Systems and the Management of Child Stunting in Malawi (2026). Published in the International Journal of Innovative Science and Research Technology, this study evaluates how digital health systems improve data-driven decision-making and public welfare outcomes. 
+•	Climate & Circular Economy: Piloting Waste to Wealth innovations using Black Soldier Fly (BSF) systems and advancing circular bioeconomy concepts.
 
-Data Science & Analytics
-
-Python (Pandas, NumPy, Scikit‑learn), SQL, R
-Tableau, Power BI, Excel (Advanced)
-Predictive Modeling, Regression, EDA
-
-Systems & Architecture
-
-Cloud‑based systems
-API design & secure authentication (JWT)
-Git, GitHub, Postman
-
-Blockchain & Emerging Tech
-
-Internet Computer Protocol (ICP)
-Motoko smart contracts
-Decentralized application (dApp) design
-
-
-📊 Featured Projects
-🔹 Automatidata – NYC Taxi Fare Prediction
-Machine learning regression model forecasting taxi fares using real TLC data. Applied the PACE framework to deliver production‑ready insights.
-🔹 ShopHub – Next.js E‑commerce SaaS
-High‑performance e‑commerce platform using Next.js 13, Zustand state management, Stripe subscriptions, and mobile‑first Tailwind UI.
-🔹 DBank – DeFi on Internet Computer (ICP)
-Decentralized banking app built with Motoko, featuring compound interest logic, stable memory persistence, and Internet Identity authentication.
-🔹 Nutrition Program Evaluation (BSW Capstone)
-Statistical evaluation of community nutrition programs measuring impact on child health outcomes in Malawi.
-
-📄 Research & Publications
-📘 Digital Health Information Systems and the Management of Child Stunting in Malawi
-International Journal of Innovative Science and Research Technology (2026)
-A practice‑based study on improving child nutrition outcomes through digital data systems for social work and health services.
-
-♻️ Climate & Circular Economy Work
-
-Waste‑to‑Wealth innovation using Black Soldier Fly (BSF) systems
-Circular bioeconomy concepts: organic waste → animal feed + fertilizer
-Climate‑resilient education and youth innovation initiatives
-
-
-🌱 What I’m Currently Working On
-
-Child data analytics & evidence systems
-Circular bioeconomy pilots (Waste‑to‑Wealth)
-Climate‑resilient and socially inclusive digital platforms
-Open‑source tools for development & public policy
-
+🌱 What I’m Currently Exploring
+•	Child data analytics and evidence systems.
+•	Climate-resilient and socially inclusive digital platforms.
+•	Integrating machine learning pipelines into backend services for process automation. 
 
 🤝 Let’s Connect
 📫 Email: nyanjahia@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/andre-nyanjahia-ab664228a
-🌐 Portfolio: https://andre-tech671.github.io/Andre_FullStack_Developer_senior/
+💼 LinkedIn: andre-nyanjahia
+🌐 Portfolio: Andre_FullStack_Developer_senior
 
-⭐ Mission
+⭐ Mission: Building intelligent, scalable, and responsible systems that empower communities, institutions, and decision makers to create lasting impact.
 
-Building intelligent, scalable, and responsible systems that empower communities, institutions, and decision‑makers to create lasting impact.
