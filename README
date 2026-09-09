@@ -1,40 +1,80 @@
-Full Stack Systems Architect | Data Engineer | Public Health Researcher
+Andre Philip Nyanjahia
+Full-Stack Systems Architect | Data Engineer | Public Health Researcher
 
-🌍 Building evidence-based digital infrastructure for global health, climate resilience, and social equity.
+Building evidence-based digital infrastructure at the intersection of global health, climate resilience, and social equity.
 
-📍 Mozambique | Working across Africa & globally
+
 🧠 About Me
+I am a multidisciplinary engineer and researcher with 6+ years of experience designing scalable software systems, automated data pipelines, and social welfare interventions. My work bridges software architecture, predictive analytics, and macro-level policy to deliver high-impact digital tools.
 
-I am a multidisciplinary engineer and researcher with over six years of experience designing scalable applications, data pipelines, and social welfare interventions. My work bridges the gap between software engineering, predictive data science, and macro-level social policy to build high-impact digital infrastructure. 
-•	I hold professional certifications in Systems Architecture from IBM and Advanced Data Analytics from Google. 
-•	I currently serve as the Southern Africa Regional Focal Point for the SDG7 Youth Constituency, leading regional stakeholder coordination for sustainable energy access. 
-•	My technical approach is rooted in evidence-based decision-making, child-centered systems, climate innovation, and ethical, human-centered design.
+
+•	🎓 Certifications: IBM Systems Architecture | Google Advanced Data Analytics | Harvard CS50
+
+•	🌍 Leadership: Southern Africa Regional Focal Point for the SDG7 Youth Constituency (Sustainable Energy Access)
+
+•	🔬 Research: Published author in digital health information systems and public health data pipelines
+
+•	🎯 Core Ethos: Human-centered design, child-centered systems, and evidence-based decision-making
 
 🛠️ Technical Arsenal
-•	Full-Stack Engineering: React.js, Next.js (App Router), TypeScript, Tailwind CSS. 
-•	Backend & Cloud: Node.js, NestJS, Express.js, REST APIs, GraphQL, PostgreSQL, MongoDB. 
-•	Data Science & Analytics: Python (Pandas, Scikit-learn), R, SQL, Power BI, Tableau, Predictive Modeling, PACE Framework. 
-•	Emerging Tech: Internet Computer Protocol (ICP), Motoko smart contracts, Decentralized application (dApp) design. 
+Domain	Technologies & Tools
+Frontend Engineering	React.js, Next.js (App Router), TypeScript, Tailwind CSS, Redux, Refine.dev
+Backend & Cloud Architecture	Node.js, NestJS, Express.js, RESTful APIs, GraphQL, PostgreSQL, MongoDB, Drizzle ORM
+Data Science & Analytics	Python (Pandas, NumPy, Scikit-learn), R, SQL, Power BI, Tableau, PACE Framework
+Web3 & Decentralized Tech	Internet Computer Protocol (ICP), Motoko Smart Contracts, DFX SDK, Internet Identity
+Design & Prototyping	Figma, UI/UX Wireframing, System Architecture Diagrams
 
-📊 Featured Open-Source & Portfolio Projects
-•	HydroNexus One (Digital Public Infrastructure): Spearheaded the deployment of an open-source framework using the MERN stack for transboundary antimicrobial resistance (AMR) data surveillance. Engineered a secure, admin-gated data validation pipeline with an immutable transactional log to guarantee data integrity across jurisdictions. 
-•	Automatidata (Machine Learning): Built a regression-based ML model to forecast NYC taxi fares, utilizing the PACE framework for full data lifecycle management. 
-•	DBank (DeFi on ICP): Architected a decentralized banking application using Motoko, featuring 1% compound interest logic, stable memory persistence, and Internet Identity integration. 
-•	ShopHub (E-commerce SaaS): Engineered a high-performance storefront using Next.js 13, TypeScript, and centralized state management via Zustand.
+🚀 Featured Projects
+🌊 HydroNexus One — Digital Public Infrastructure
+Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS
 
-📄 Research & Advocacy
-•	Peer-Reviewed Publication: Digital Health Information Systems and the Management of Child Stunting in Malawi (2026). Published in the International Journal of Innovative Science and Research Technology, this study evaluates how digital health systems improve data-driven decision-making and public welfare outcomes. 
-•	Climate & Circular Economy: Piloting Waste to Wealth innovations using Black Soldier Fly (BSF) systems and advancing circular bioeconomy concepts.
+•	Built an open-source framework for transboundary Antimicrobial Resistance (AMR) data surveillance across regional jurisdictions.
 
-🌱 What I’m Currently Exploring
-•	Child data analytics and evidence systems.
-•	Climate-resilient and socially inclusive digital platforms.
-•	Integrating machine learning pipelines into backend services for process automation. 
+•	Engineered an admin-gated data validation pipeline with immutable transactional logging to ensure zero data tampering across multi-agency workflows.
 
-🤝 Let’s Connect
-📫 Email: nyanjahia@gmail.com
-💼 LinkedIn: andre-nyanjahia
-🌐 Portfolio: Andre_FullStack_Developer_senior
+📈 Automatidata — Predictive Machine Learning Pipeline
+Tech Stack: Python, Scikit-learn, Pandas, PACE Framework
 
-⭐ Mission: Building intelligent, scalable, and responsible systems that empower communities, institutions, and decision makers to create lasting impact.
+•	Developing a predictive regression model forecasting NYC taxi trip fares to assist urban transport planning.
+
+•	Implementing end-to-end data processing following the PACE framework, from exploratory data analysis (EDA) to model deployment and reporting.
+
+🏦 DBank Protocol — Decentralized Banking on ICP
+Tech Stack: Motoko, Internet Computer Protocol (ICP), WebAssembly, Internet Identity
+
+•	Designed and deployed a decentralized financial application featuring automated 1% compound interest logic.
+
+•	Leveraged ICP stable memory persistence to maintain state integrity across contract updates without data loss.
+
+🛒 ShopHub — E-Commerce SaaS Framework
+Tech Stack: Next.js (App Router), TypeScript, Zustand, Tailwind CSS
+
+•	Built a modular storefront optimization layer focused on sub-second page loads and seamless client-side state hydration.
+
+📄 Selected Research & Initiatives
+•	📖 Peer-Reviewed Publication (2026):
+
+Digital Health Information Systems and the Management of Child Stunting in Malawi — International Journal of Innovative Science and Research Technology (IJISRT). Evaluates how integrated data pipelines strengthen health monitoring and early childhood intervention.
+
+•	♻️ Circular Bioeconomy:
+
+Piloting Waste-to-Wealth systems using Black Soldier Fly (BSF) larvae processing for decentralized organic waste management and sustainable protein production.
+
+🌱 Active Explorations
+•	Child Data Analytics: Architecting secure, ethical data pipelines for child protection and health tracking systems.
+
+•	Climate Information Systems: Integrating real-time ML inference into backend REST services for early-warning climate response.
+
+•	Smart Contract Optimization: Enhancing multi-canister architecture patterns on the Internet Computer Protocol.
+
+🤝 Let's Connect
+•	📧 Email: nyanjahia@gmail.com
+
+•	💼 LinkedIn: https://www.linkedin.com/in/andre-nyanjahia-ab664228a
+
+•	🌐 Portfolio: https://andre-tech671.github.io/Andre_FullStack_Developer_senior/
+. 🌐 Data-Analytics-Portifolio: https://sites.google.com/view/andreportfoli/my-work
+
+
+💡 Mission: Building intelligent, scalable, and responsible systems that empower communities, institutions, and decision-makers to drive lasting global impact.
 
