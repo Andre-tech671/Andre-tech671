@@ -1,80 +1,45 @@
-Andre Philip Nyanjahia
-Full-Stack Systems Architect | Data Engineer | Public Health Researcher
+<h1 align="center">Andre Nyanjahia</h1>
+<p align="center">
+  <b>Full-Stack Systems Architect | Data Engineer | Published Public Health Researcher</b>
+</p>
 
-Building evidence-based digital infrastructure at the intersection of global health, climate resilience, and social equity.
+<p align="center">
+  <a href="https://stackdretech.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-StackDre-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/andre-nyanjahia-ab664228a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nyanjahia@gmail.com"><img src="https://img.shields.io/badge/Email-nyanjahia@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+---
 
-🧠 About Me
-I am a multidisciplinary engineer and researcher with 6+ years of experience designing scalable software systems, automated data pipelines, and social welfare interventions. My work bridges software architecture, predictive analytics, and macro-level policy to deliver high-impact digital tools.
+### Professional Overview
+I am a **Full-Stack Systems Architect, Certified Data Analyst, and Published Researcher** with expertise integrating scalable software infrastructure, data science, and monitoring and evaluation (MEL) frameworks. 
 
+My work spans offline-first digital public infrastructure (DPI) for cross-border health surveillance (*HydroNexus One*), microservice cloud backends (NestJS/PostgreSQL), and quantitative evaluations for UNICEF-supported social protection projects across Malawi and Mozambique.
 
-•	🎓 Certifications: IBM Systems Architecture | Google Advanced Data Analytics | Harvard CS50
+---
 
-•	🌍 Leadership: Southern Africa Regional Focal Point for the SDG7 Youth Constituency (Sustainable Energy Access)
+### Technical Capabilities
 
-•	🔬 Research: Published author in digital health information systems and public health data pipelines
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & Cloud Systems** | NestJS \| Node.js \| Next.js 13/16 \| React.js \| TypeScript \| Express.js \| PostgreSQL \| MongoDB \| Docker \| REST/GraphQL APIs |
+| **Data Science & Analytics** | Python (Pandas, NumPy, Scikit-learn) \| R \| SQL \| BigQuery \| Power BI \| Tableau \| Predictive Regression Modeling |
+| **Web3 & Storage** | Internet Computer Protocol (ICP) \| Motoko Smart Contracts \| Canister Infrastructure \| Internet Identity |
+| **MEL & Field Governance** | Logical Frameworks \| Theories of Change \| Indicator Tracking \| KoboToolbox / ODK \| One Health Policy (AMR) |
 
-•	🎯 Core Ethos: Human-centered design, child-centered systems, and evidence-based decision-making
+---
 
-🛠️ Technical Arsenal
-Domain	Technologies & Tools
-Frontend Engineering	React.js, Next.js (App Router), TypeScript, Tailwind CSS, Redux, Refine.dev
-Backend & Cloud Architecture	Node.js, NestJS, Express.js, RESTful APIs, GraphQL, PostgreSQL, MongoDB, Drizzle ORM
-Data Science & Analytics	Python (Pandas, NumPy, Scikit-learn), R, SQL, Power BI, Tableau, PACE Framework
-Web3 & Decentralized Tech	Internet Computer Protocol (ICP), Motoko Smart Contracts, DFX SDK, Internet Identity
-Design & Prototyping	Figma, UI/UX Wireframing, System Architecture Diagrams
+### Featured Systems
 
-🚀 Featured Projects
-🌊 HydroNexus One — Digital Public Infrastructure
-Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS
+- **[HydroNexus One](https://hydronexus-one.netlify.app)** \| *React 18, Node.js, MongoDB, Leaflet GIS, Arcjet*
+  - Digital public infrastructure for transboundary water management and AMR surveillance across SADC. Built with real-time GIS mapping and low-bandwidth telemetry.
+- **[ShopHub Platform](https://next-js-ecommerce-store-pink.vercel.app)** \| *Next.js 16, Stripe API, Zustand, Tailwind v4*
+  - Subscription commerce application featuring server-side rendering, secure Stripe checkout flows, and centralized cart state logic.
+- **[Classroom Management Dashboard](https://magementdashboard.netlify.app)** \| *React 19, Refine.dev, Node.js, PostgreSQL*
+  - Administrative dashboard supporting automated enrollment management and role-based access control backed by serverless PostgreSQL.
 
-•	Built an open-source framework for transboundary Antimicrobial Resistance (AMR) data surveillance across regional jurisdictions.
+---
 
-•	Engineered an admin-gated data validation pipeline with immutable transactional logging to ensure zero data tampering across multi-agency workflows.
-
-📈 Automatidata — Predictive Machine Learning Pipeline
-Tech Stack: Python, Scikit-learn, Pandas, PACE Framework
-
-•	Developing a predictive regression model forecasting NYC taxi trip fares to assist urban transport planning.
-
-•	Implementing end-to-end data processing following the PACE framework, from exploratory data analysis (EDA) to model deployment and reporting.
-
-🏦 DBank Protocol — Decentralized Banking on ICP
-Tech Stack: Motoko, Internet Computer Protocol (ICP), WebAssembly, Internet Identity
-
-•	Designed and deployed a decentralized financial application featuring automated 1% compound interest logic.
-
-•	Leveraged ICP stable memory persistence to maintain state integrity across contract updates without data loss.
-
-🛒 ShopHub — E-Commerce SaaS Framework
-Tech Stack: Next.js (App Router), TypeScript, Zustand, Tailwind CSS
-
-•	Built a modular storefront optimization layer focused on sub-second page loads and seamless client-side state hydration.
-
-📄 Selected Research & Initiatives
-•	📖 Peer-Reviewed Publication (2026):
-
-Digital Health Information Systems and the Management of Child Stunting in Malawi — International Journal of Innovative Science and Research Technology (IJISRT). Evaluates how integrated data pipelines strengthen health monitoring and early childhood intervention.
-
-•	♻️ Circular Bioeconomy:
-
-Piloting Waste-to-Wealth systems using Black Soldier Fly (BSF) larvae processing for decentralized organic waste management and sustainable protein production.
-
-🌱 Active Explorations
-•	Child Data Analytics: Architecting secure, ethical data pipelines for child protection and health tracking systems.
-
-•	Climate Information Systems: Integrating real-time ML inference into backend REST services for early-warning climate response.
-
-•	Smart Contract Optimization: Enhancing multi-canister architecture patterns on the Internet Computer Protocol.
-
-🤝 Let's Connect
-•	📧 Email: nyanjahia@gmail.com
-
-•	💼 LinkedIn: https://www.linkedin.com/in/andre-nyanjahia-ab664228a
-
-•	🌐 Portfolio: https://andre-tech671.github.io/Andre_FullStack_Developer_senior/
-. 🌐 Data-Analytics-Portifolio: https://sites.google.com/view/andreportfoli/my-work
-
-
-💡 Mission: Building intelligent, scalable, and responsible systems that empower communities, institutions, and decision-makers to drive lasting global impact.
-
+### Peer-Reviewed Publications
+- **Banda, C., & Nyanjahia, A. P. (2026).** *Digital Health Information Systems and the Management of Child Stunting in Malawi: A Practice-Based Intervention Study from a Social Work Perspective.* International Journal of Innovative Science and Research Technology (IJISRT), 11(1), 1380-1382.
+        
