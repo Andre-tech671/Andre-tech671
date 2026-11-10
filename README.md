@@ -6,7 +6,7 @@
 
 <!-- ─── ANIMATED HERO ─── -->
 <a href="https://stackdretech.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=800&height=70&lines=Technology,+Data+%26+Development+Consultant;Systems+Architect+%7C+MEL+Specialist;Data+Engineer+%7C+AI+Governance;Building+robust+digital+systems;for+data-driven+public+good." alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=800&height=70&lines=Technology,+Data+%26+Development+Consultant;Systems+Architect+%7C+MEL+Specialist;Data+Engineer+%7C+AI+Governance;Building+robust+digital+systems;for+data-driven+public+good." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -56,12 +56,12 @@ My work focuses on helping governments, development organizations, startups, SME
 
 ## 📌 Impact Snapshot
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center"><b>🌍 Geographic Reach</b><br/><h3>6+</h3><br/><sub>Malawi, Mozambique, Kenya, Ghana, Nigeria, Regional Africa</sub></td>
-    <td align="center"><b>💼 Advisory Work</b><br/><h3>10+</h3><br/><sub>Investment Readiness & SME Development</sub></td>
-    <td align="center"><b>🤖 AI & Governance</b><br/><h3>Active</h3><br/><sub>AI Governance Volunteer & Responsible AI</sub></td>
-    <td align="center"><b>📚 Research</b><br/><h3>1</h3><br/><sub>Peer-Reviewed Publication</sub></td>
+    <td align="center" width="25%"><b>🌍 Geographic Reach</b><br/><h3>6+</h3><br/><sub>Malawi, Mozambique, Kenya, Ghana, Nigeria, Regional Africa</sub></td>
+    <td align="center" width="25%"><b>💼 Advisory Work</b><br/><h3>10+</h3><br/><sub>Investment Readiness & SME Development</sub></td>
+    <td align="center" width="25%"><b>🤖 AI & Governance</b><br/><h3>Active</h3><br/><sub>AI Governance Volunteer & Responsible AI</sub></td>
+    <td align="center" width="25%"><b>📚 Research</b><br/><h3>1</h3><br/><sub>Peer-Reviewed Publication</sub></td>
   </tr>
 </table>
 
@@ -93,7 +93,7 @@ Conducted an end-to-end diagnostic for a $1.2M debt facility. Identified a criti
 
 ## 🚀 Currently
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -170,15 +170,18 @@ Digital Public Infrastructure · Health Informatics · AI Governance · Cloud Ar
 
 <div align="center">
 
-| 💼 Consulting Portfolio | 📊 Data Analytics Portfolio | 🛠️ Full-Stack Development |
-| :---: | :---: | :---: |
-| Investment readiness, strategic advisory, AI governance & MEL case studies. | SQL, Python, Tableau, Power BI, Looker Studio & business intelligence projects. | Enterprise apps, dashboards, SaaS platforms & digital infrastructure. |
-| [**Explore**](https://github.com/Andre-tech671/andre-consulting-portfolio) | [**Explore**](https://sites.google.com/view/andreportfoli/my-work) | [**Explore**](https://andre-tech671.github.io/Andre_FullStack_Developer_senior/) |
-
-| 🤖 AI Governance | 📚 Research | 🌍 Development Technology |
-| :---: | :---: | :---: |
-| Responsible AI, risk management, compliance & governance tooling. | Peer-reviewed publications, policy papers & technical research. | Digital public infrastructure, MEL systems & impact tech. |
-| [**Explore**](#) | [**Read Paper**](https://doi.org/10.38124/ijisrt/26jan663) | [**Explore**](https://hydronexus-one.netlify.app/) |
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>💼 Consulting Portfolio</b><br/><sub>Investment readiness, strategic advisory, AI governance & MEL case studies.</sub><br/><br/><a href="https://github.com/Andre-tech671/andre-consulting-portfolio"><b>Explore</b></a></td>
+    <td width="33%" align="center"><b>📊 Data Analytics Portfolio</b><br/><sub>SQL, Python, Tableau, Power BI, Looker Studio & business intelligence projects.</sub><br/><br/><a href="https://sites.google.com/view/andreportfoli/my-work"><b>Explore</b></a></td>
+    <td width="33%" align="center"><b>🛠️ Full-Stack Development</b><br/><sub>Enterprise apps, dashboards, SaaS platforms & digital infrastructure.</sub><br/><br/><a href="https://andre-tech671.github.io/Andre_FullStack_Developer_senior/"><b>Explore</b></a></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>🤖 AI Governance</b><br/><sub>Responsible AI, risk management, compliance & governance tooling.</sub><br/><br/><a href="#"><b>Explore</b></a></td>
+    <td width="33%" align="center"><b>📚 Research</b><br/><sub>Peer-reviewed publications, policy papers & technical research.</sub><br/><br/><a href="https://doi.org/10.38124/ijisrt/26jan663"><b>Read Paper</b></a></td>
+    <td width="33%" align="center"><b>🌍 Development Technology</b><br/><sub>Digital public infrastructure, MEL systems & impact tech.</sub><br/><br/><a href="https://hydronexus-one.netlify.app/"><b>Explore</b></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -186,7 +189,7 @@ Digital Public Infrastructure · Health Informatics · AI Governance · Cloud Ar
 
 ## 🌟 Featured Case Studies
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -276,7 +279,7 @@ Digital Public Infrastructure · Health Informatics · AI Governance · Cloud Ar
 
 ## 🎓 Certifications & Leadership
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -308,12 +311,12 @@ Digital Public Infrastructure · Health Informatics · AI Governance · Cloud Ar
 
 <div align="center">
 <br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-tech671&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1220&title_color=818cf8&icon_color=a78bfa&text_color=94a3b8" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-tech671&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0d1220&title_color=818cf8&text_color=94a3b8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=andre-tech671&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1220&title_color=818cf8&icon_color=a78bfa&text_color=94a3b8" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-tech671&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0d1220&title_color=818cf8&text_color=94a3b8" alt="Top Languages" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-tech671&theme=tokyonight&hide_border=true&background=0d1220&stroke=1e293b&ring=818cf8&fire=ef4444&currStreakLabel=a78bfa" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-tech671&theme=tokyonight&hide_border=true&background=0d1220&stroke=1e293b&ring=818cf8&fire=ef4444&currStreakLabel=a78bfa" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=andre-tech671&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=andre-tech671&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -346,6 +349,6 @@ Digital Public Infrastructure · Health Informatics · AI Governance · Cloud Ar
 
 <br/><br/>
 
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Wave" />
 
 </div>
